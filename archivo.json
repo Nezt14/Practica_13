@@ -1,0 +1,10 @@
+{
+  "nombre": "Kevin Flores",
+  "edad": 19,
+  "materias": [
+    "Logica de Programacion",
+    "Realidad Nacional",
+    "Expresion Oral y Escrita"
+  ],
+  "ciclo": "II-2024"
+}
